@@ -11,4 +11,3 @@ Projeyi clonladıktan sonra Visual Studio Code programını açınız. Linux iç
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açın.
 
 ## Licence
-https://choosealicense.com/licenses/mit/
